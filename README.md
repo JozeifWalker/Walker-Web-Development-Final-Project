@@ -1,2 +1,4 @@
 # Walker-Web-Development-Final-Project
-A complete MVC model in which the web application uses a databse created in MYSQL to display, add , and delete content from the database. The programs used was Eclipse, Tomcat , MySQL. Programming language is Java.
+With Amazon Prime and Alphabet,Inc announcing drone delivering just months away, ITEC personnel are gearing up for an expansion of their drone deliver systems. Many areas of commerce will be affected including: transportation & logistics, inventory & warehouse management and even the legal departments. With this surge in drone usage, many new applications will be needed to service the changes in businesses and their individual departments. 
+
+My task involved building an online web site that controls drone purchasing and ordering. This project required: a database,HTML&CSS,Data Validation and Relevant State Management.
