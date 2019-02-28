@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+body{
+	background-color: beige;
+	
+}
+h1{
+	background-color:maroon;
+	color:white;
+	padding:1em;
+	margin-bottom:0;
+	width:100%;
+}
+ul{ list-style-type: none; } 
+
+form{
+	width: 80%;
+    margin: 0 auto;
+}
+label,input{
+	 display: inline-block;
+}
+label{
+	 width: 30%;
+    text-align: right;
+}
+label + input {
+    width: 30%;
+  
+    margin: 0 30% 0 4%;
+}
+
+
+input + input {
+    float: right;
+}
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+    height: 100%;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+​
