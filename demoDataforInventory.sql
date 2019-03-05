@@ -1,0 +1,2 @@
+insert into droneinventory(DroneID,Make,Model,Year,Last_Service_Date,Service_Location_City,Service_Location_State,Vin)
+values(001,'Honda','SuperDrone',2013,'08/08/2018','Jackson','MS','JH4KA3269HC010561');
