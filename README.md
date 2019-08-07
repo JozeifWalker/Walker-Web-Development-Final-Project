@@ -8,7 +8,9 @@ https://youtu.be/8HCpQl7tC3A
 
 
 # Notes
-1. The data populating the tables is persistent. I used MySQL Workbench as a database that stores the data and also use a JDBC connector that allows application to communicate with database.
+1. The data populating the tables is persistent. 
+2. MySQL is used as the database.
+3. The database is connected to the Java Web App via JDBC API. 
 
 
 
