@@ -1,5 +1,5 @@
 # Walker-Web-Development-Final-Project
-This  web application is a  fictional drone inventory tracker. This web app demonstrates the persistence of data within in a Spring framework environment. Also demonstrates data validation and relevant state management.
+This  web application is a  fictional drone inventory tracker. This full stack web app demonstrates the persistence of data within  a Spring framework utilizing Spring MVC. Front End: HTML/CSS | Back end : Java/MYSQL
 
 
 
